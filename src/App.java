@@ -127,7 +127,7 @@ public class App {
 
 
             // Check to make sure you are still able to add to the list
-            if (list[19][0] == "") {
+            if (list[list.length][0] == "") {
                 
                 
                 
